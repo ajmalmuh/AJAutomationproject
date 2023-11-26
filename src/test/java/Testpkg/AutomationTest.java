@@ -40,11 +40,9 @@ public class AutomationTest extends Baseclass
 		ob5.checkout();
 		
 		
-		
-		
+			
 	}
 	
 	
-
 
 }
